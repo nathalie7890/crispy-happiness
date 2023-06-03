@@ -52,8 +52,8 @@ const Input: React.FC<InputProps> = ({
             disabled:opacity-70 
             disabled:cursor-not-allowed 
             ${formatPrice ? "pl-9" : "pl-4"}
-            ${errors[id] ? "border-rose-900" : "border-neutral-300"}
-            ${errors[id] ? "focus:border-rose-900" : "focus:border-black"}`}
+            ${errors[id] ? "border-rose-600" : "border-neutral-300"}
+            ${errors[id] ? "focus:border-rose-600" : "focus:border-black"}`}
       />
       <label
         className={`

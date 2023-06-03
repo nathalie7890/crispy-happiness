@@ -72,7 +72,7 @@ export const categories = [
     description: "This property has camping activites!",
   },
   {
-    label: "Modern",
+    label: "Villa",
     icon: MdOutlineVilla,
     description: "This property is modern!",
   },
